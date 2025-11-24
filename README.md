@@ -10,7 +10,11 @@ I’m diving deep into the world of **software engineering**, always eager to le
 - Python 🐍
 - HTML / CSS / JavaScript 🌐
 - Java ☕
-- And more...
+- PhP
+- Laravel
+- React
+- Angular
+
 
 ---
 
