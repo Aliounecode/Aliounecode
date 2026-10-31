@@ -8,6 +8,9 @@ I’m diving deep into the world of **software engineering**, always eager to le
  🚀 Currently Learning
 - C language
 - Python 🐍
+- FastApi
+- Django
+- flutter
 - HTML / CSS / JavaScript 🌐
 - Java ☕
 - PhP
