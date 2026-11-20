@@ -29,42 +29,40 @@ J'aime transformer des idées en applications concrètes, relever des défis tec
 
 ### 💻 Langages de programmation
 
-Langage C 
- . Python
- . Java
- . PhP
- . HTML5
- . CSS3
- . Javascript
+- **Langage C** .
+- **Python** .
+- **Java**.
+- **PhP**.
+- **HTML5**.
+- **CSS3**.
+- **JavaScript**.
 
 ### ⚙️ Backend et frameworks
-FastApi
- . Django 
- . Flask
- . Laravel
+- **FastApi** .
+- **Django** .
+- **Flask**.
+- **Laravel**.
 
 ### 🌐 Frontend
-
- React
- . Angular
+- **Angular** .
+- **React** .
 
 ### 📱 Développement mobile
 
- Flutter
- . React Native
+- **Flutter** .
+- **React Native** .
 
 ### 🗄️ Bases de données
-
- PostgreSQL
- . MySQL
- . Supabase
- . MongoDB
+- **PostgreSQL** .
+- **MySQL** .
+- **MongoDB**.
+- **Supabase**.
 
 ### 🔧 Outils de développement
- Git
- . GitHub
- . VsCode
- . Docker
+- **Git** .
+- **Github** .
+- **VScode**.
+- **Docker**.
 
 ---
 
