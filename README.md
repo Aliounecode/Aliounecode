@@ -45,23 +45,23 @@ FastApi
 
 ### 🌐 Frontend
 
- . React
+ React
  . Angular
 
 ### 📱 Développement mobile
 
- . Flutter
+ Flutter
  . React Native
 
 ### 🗄️ Bases de données
 
- . PostgreSQL
+ PostgreSQL
  . MySQL
  . Supabase
  . MongoDB
 
 ### 🔧 Outils de développement
- . Git
+ Git
  . GitHub
  . VsCode
  . Docker
